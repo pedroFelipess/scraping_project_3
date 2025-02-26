@@ -17,7 +17,7 @@ This project scrapes data from the [Quotes to Scrape](https://quotes.toscrape.co
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone git@github.com:pedroFelipess/scraping_project_4.git
+   git clone git@github.com:pedroFelipess/scraping_project_3.git
    ```
 2. Navigate to the project directory:
    ```bash
